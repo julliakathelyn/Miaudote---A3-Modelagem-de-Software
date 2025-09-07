@@ -44,3 +44,6 @@ Além do fluxograma, o processo foi detalhado em **pseudocódigo em Portugol**, 
 - `miaudote.png` → Fluxograma do sistema
   
 ---
+
+https://ruddy-politician-b1d.notion.site/A3-Governan-a-e-Projetos-265df6f285d3805db139fcf1f3e8ad6e?source=copy_link
+trabalho sendo re estruturado na ud de governança e processsos
