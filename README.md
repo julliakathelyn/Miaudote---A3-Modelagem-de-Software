@@ -47,3 +47,6 @@ Além do fluxograma, o processo foi detalhado em **pseudocódigo em Portugol**, 
 
 https://ruddy-politician-b1d.notion.site/A3-Governan-a-e-Projetos-265df6f285d3805db139fcf1f3e8ad6e?source=copy_link
 trabalho sendo re estruturado na ud de governança e processsos
+
+
+https://www.notion.so/Miaudote-267e9594710c807f9a44c7be6e5aee85
